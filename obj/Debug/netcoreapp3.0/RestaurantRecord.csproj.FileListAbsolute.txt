@@ -1,0 +1,11 @@
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.exe
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.deps.json
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.runtimeconfig.json
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.runtimeconfig.dev.json
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.dll
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\bin\Debug\netcoreapp3.0\RestaurantRecord.pdb
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\obj\Debug\netcoreapp3.0\RestaurantRecord.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\obj\Debug\netcoreapp3.0\RestaurantRecord.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\obj\Debug\netcoreapp3.0\RestaurantRecord.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\obj\Debug\netcoreapp3.0\RestaurantRecord.dll
+C:\Users\Lexicon\source\repos\RestaurantRecord\RestaurantRecord\obj\Debug\netcoreapp3.0\RestaurantRecord.pdb
